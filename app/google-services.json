@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573819103524",
+    "project_id": "parcialcarlosorjuela",
+    "storage_bucket": "parcialcarlosorjuela.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573819103524:android:4729d7a47c91a50f93abb1",
+        "android_client_info": {
+          "package_name": "com.example.parcialcarlosorjuela"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKiNN3vmpycfj0FEGM6DhDgky9IVlU6Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
